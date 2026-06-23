@@ -56,4 +56,4 @@ The cleaned data was imported into Power BI to create an executive-ready, intera
 2. **Reallocate Budget based on ROI:** Since Email and Social Media drive massive ROI relative to cost, shift capital away from underperforming static paid ads and reallocate toward highly targeted email workflows and automated WhatsApp customer interactions.
 
 ---
-
+google dox : https://docs.google.com/document/d/1c-vcSM1sQx-NoGzzA_qt8hQrWFInLay5ZPr1JGEedVI/edit?usp=sharing
